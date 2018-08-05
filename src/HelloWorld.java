@@ -9,5 +9,9 @@ public class HelloWorld {
         for (int i=0;i<value;i++){
             System.out.println("Hello world : "+i);
         }
+
+        for(int j=0 ;j<10;j++){
+            System.out.println("Hello shiv : "+j);
+        }
     }
 }
